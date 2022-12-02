@@ -26,3 +26,9 @@ We perform network traffic analysis on the CICIDS2017 dataset using Apache Spark
 - DecisionTreeClassifier
 - NaiveBayes
 - RandomForestClassifier
+
+
+## Keywords
+- Cybersecurity
+- Big data
+- Machine Learning
