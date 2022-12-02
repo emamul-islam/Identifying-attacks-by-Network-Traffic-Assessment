@@ -3,18 +3,18 @@ We perform network traffic analysis on the CICIDS2017 dataset using Apache Spark
 
 
 ## Contents
-|—— README.md
-|—— Codes
-|     |—— All-CICIDS2017.ipynb
-|     |__ FridayAfternoon-CICIDS2017.ipynb
-|     |__ Monday-WorkingHours-CICIDS2017.ipynb
-|     |__ Tuesday-WorkingHours-CICIDS2017.ipynb
-|     |__ Wednesday-workingHours-CICIDS2017.ipynb
-|—— Dataset
-|     |—— Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
-|     |—— Monday-WorkingHours.pcap_ISCX.csv
-|     |—— Tuesday-WorkingHours.pcap_ISCX.csv
-|     |—— Wednesday-workingHours.pcap_ISCX.csv
+- |—— README.md
+- |—— Codes
+- |     |—— All-CICIDS2017.ipynb
+- |     |__ FridayAfternoon-CICIDS2017.ipynb
+- |     |__ Monday-WorkingHours-CICIDS2017.ipynb
+- |     |__ Tuesday-WorkingHours-CICIDS2017.ipynb
+- |     |__ Wednesday-workingHours-CICIDS2017.ipynb
+- |—— Dataset
+- |     |—— Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+- |     |—— Monday-WorkingHours.pcap_ISCX.csv
+- |     |—— Tuesday-WorkingHours.pcap_ISCX.csv
+- |     |—— Wednesday-workingHours.pcap_ISCX.csv
 
 
 ## Python Libraries
